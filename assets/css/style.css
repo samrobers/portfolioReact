@@ -1,0 +1,36 @@
+.header-section {
+  background-color: #454955;
+  height: 200px;
+}
+h1 {
+  width: 343px;
+  color: whitesmoke;
+}
+body {
+  background-color: #bfd7ea;
+  margin: 0;
+  padding: 0;
+  color: #454955;
+  font-size: larger;
+  font-weight: bolder;
+}
+.footer-section {
+  background-color: #454955;
+  height: 100px;
+  color: whitesmoke;
+}
+/* .nav-section {
+  width: 85px;
+  color: #bfd7ea;
+} */
+.white-smoke-text {
+  color: whitesmoke;
+}
+.custom-footer-text {
+  font-size: 20px;
+  color: violet;
+}
+a:hover {
+  opacity: 0.5;
+  color: whitesmoke;
+}
